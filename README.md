@@ -3,5 +3,4 @@ This is my first Git Repository
 <br>
 Author-Shradha Khapra
 
-
-<h1>Sohil</h1>
+<h1 style="color:red">Sohil</h1>
