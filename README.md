@@ -1,5 +1,6 @@
-# Sohil-deme
+# Sohil-demo
+
 This is my first Git Repository
 <br>
-Author-Shradha Khapra
+Author-Sohil-demo
 
